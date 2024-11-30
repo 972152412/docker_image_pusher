@@ -13,7 +13,7 @@ opensearchproject/opensearch:1.3.4
 opensearchproject/opensearch:1.3.19
 mysql:8.4.3
 nacos/nacos-server:v2.4.3
-
+nacos/nacos-server:v2.1.0-slim
 
 
 
