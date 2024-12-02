@@ -15,7 +15,7 @@ mysql:8.4.3
 nacos/nacos-server:v2.4.3
 nacos/nacos-server:v2.1.0-slim
 seataio/seata-server:1.5.2
-
+bladex/sentinel-dashboard:1.8.6
 
 
 
