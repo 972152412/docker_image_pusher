@@ -17,7 +17,6 @@ nacos/nacos-server:v2.1.0-slim
 seataio/seata-server:1.5.2
 bladex/sentinel-dashboard:1.8.6
 kong/kong-gateway:latest
-nacos/nacos-server:v2.3.2-slim
 
 
 
